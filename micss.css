@@ -23,8 +23,8 @@ p {
     margin-right: 5%;
 }
 a:link, a:visited, a:active {
-    text-decoration:none;
-    color:white;
+    text-decoration: none;
+    color: white;
 }
 ::-webkit-scrollbar {
     width: 10px;
