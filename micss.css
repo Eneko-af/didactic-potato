@@ -1,0 +1,32 @@
+body {
+    background-image: url(Imagenes/fondo.jpg);
+    overflow-x: hidden;
+    overflow-y: overlay;
+}
+p {
+    color: white;
+}
+#tabla {
+    color: white;
+}
+#justificado {
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: justify;
+}
+#fondonav {
+    background-color: rgba(255, 255, 255, 0.2);
+}
+#justificadoj {
+    text-align: justify;
+    margin-top: 10%;
+    margin-right: 5%;
+}
+ 
+::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+  }
+::-webkit-scrollbar-thumb {
+    background: rgb(122, 122, 122);
+  }
